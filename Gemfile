@@ -7,10 +7,13 @@ gem 'rails', '3.2.0'
 
 gem 'sqlite3-ruby', '1.3.2', :group => :development
 
+gem 'sqlite3'
+
 
 gem 'sass-rails', '3.2.3'
 gem 'coffee-rails', '3.2.1'
 gem 'uglifier', '1.0.3'
+gem 'jquery-rails', "~> 2.3.0"
 
 # Utilser unicorn comme serveur web
 # gem 'unicorn'
