@@ -7,6 +7,7 @@ gem 'rails', '3.2.0'
 
 gem 'sqlite3-ruby', '1.3.2', :group => :development
 
+gem 'sqlite3', '1.3.5'
 
 
 gem 'sass-rails', '3.2.3'
